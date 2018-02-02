@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/glreversi.dir/main.cpp.o CMakeFiles/glreversi.dir/board.cpp.o CMakeFiles/glreversi.dir/glad.c.o  -o glreversi -lglfw -lGL -lX11 -lpthread -lXrandr -lXi -lm -ldl 

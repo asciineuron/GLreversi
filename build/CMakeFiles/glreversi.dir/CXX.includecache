@@ -1,0 +1,96 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi/board.cpp
+iostream
+-
+utility
+-
+string
+-
+board.h
+/home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi/board.h
+
+/home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi/board.h
+iostream
+-
+utility
+-
+string
+-
+
+/home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi/glad/glad.h
+windows.h
+-
+stddef.h
+-
+KHR/khrplatform.h
+-
+inttypes.h
+-
+inttypes.h
+-
+inttypes.h
+-
+stdint.h
+-
+stdint.h
+-
+inttypes.h
+-
+
+/home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi/main.cpp
+iostream
+-
+glad/glad.h
+/home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi/glad/glad.h
+GLFW/glfw3.h
+-
+fstream
+-
+utility
+-
+string
+-
+thread
+-
+stb_image.h
+/home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi/stb_image.h
+board.h
+/home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi/board.h
+
+/home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi/stb_image.h
+stb_image.h
+/home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi/stb_image.h
+stdio.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+math.h
+-
+stdio.h
+-
+assert.h
+-
+stdint.h
+-
+emmintrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+

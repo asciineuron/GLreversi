@@ -1,0 +1,7 @@
+/home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi/build/CMakeFiles/install/strip.dir
+/home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi/build/CMakeFiles/edit_cache.dir
+/home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi/build/CMakeFiles/glreversi.dir
+/home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi/build/CMakeFiles/list_install_components.dir
+/home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi/build/CMakeFiles/install/local.dir
+/home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi/build/CMakeFiles/rebuild_cache.dir
+/home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi/build/CMakeFiles/install.dir

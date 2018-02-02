@@ -1,0 +1,37 @@
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-Host System=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
+Runtime=Host System
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=glreversi
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00\x12\x00G\x00L\x00r\x00e\x00v\x00e\x00r\x00s\x00i\x00\x00\x00\x12\x00g\x00l\x00r\x00e\x00v\x00e\x00r\x00s\x00i)
+Dependency Action=Build
+EnvironmentGroup=
+Executable=file:///home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+Project Target=GLreversi,glreversi
+Use External Terminal=false
+Working Directory=file:///home/alex/Sync/Documents/Computer Science/C++/Projects/GLreversi
+isExecutable=false
+
+[Project]
+VersionControlSupport=
