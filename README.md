@@ -1,3 +1,11 @@
 # GLreversi
 A two player game of othello/reversi, OpenGL interface
-![My helpful screenshot](/images/board.png)
+
+Graphical Interface:
+![GUI](/images/board.png)
+
+Command-Line Interface:
+![CLI](/images/cli.png)
+
+Score Log:
+![SCORE](images/score.png)
