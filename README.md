@@ -8,4 +8,4 @@ Command-Line Interface:
 ![CLI](/images/cli.png)
 
 Score Log:
-![SCORE](images/score.png)
+![SCORE](images/scores.png)
